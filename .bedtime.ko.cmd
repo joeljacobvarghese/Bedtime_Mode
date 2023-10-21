@@ -1,0 +1,1 @@
+cmd_/home/sniikz/Desktop/driverimplementation/6.changes/bedtime.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sniikz/Desktop/driverimplementation/6.changes/bedtime.ko /home/sniikz/Desktop/driverimplementation/6.changes/bedtime.o /home/sniikz/Desktop/driverimplementation/6.changes/bedtime.mod.o;  true
